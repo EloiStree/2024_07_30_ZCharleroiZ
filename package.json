@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.zcharleroiz",                              
+  "displayName": "Z Charleroi Z",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Graffiti logo of Charleroi.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_07_30_ZCharleroiZ.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
