@@ -1,7 +1,7 @@
 
 {                                                                   
-            "name": "be.eloistree.zcharleroizEditor",          
-    "references": ["be.eloistree.zcharleroiz"
+            "name": "be.elab.zcharleroizEditor",          
+    "references": ["be.elab.zcharleroiz"
 ],                                                              
     "optionalUnityReferences": [],                                  
     "includePlatforms": [                                           
